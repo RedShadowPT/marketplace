@@ -1,0 +1,25 @@
+{
+  "name": "marketplace",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./init"
+  },
+  "dependencies": {
+    "ansi-to-html": "^0.6.6",
+    "bcrypt": "^3.0.1",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "entities": "^1.1.1",
+    "express": "^4.16.3",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.3.0",
+    "morgan": "~1.9.0",
+    "promise-mysql": "^3.3.1",
+    "request": "^2.88.0",
+    "request-json": "^0.6.3",
+    "serve-favicon": "~2.4.5",
+    "socket.io": "^2.1.1"
+  }
+}
