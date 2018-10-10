@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-/sql
-/mockData
 .config.js
 
 # IDEs and editors
